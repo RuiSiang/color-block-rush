@@ -1,0 +1,3 @@
+# release and object files
+bin/color-block-rush.exe
+obj/*
