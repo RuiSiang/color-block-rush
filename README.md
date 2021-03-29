@@ -3,7 +3,7 @@ This is a game that originated from chess engames containing a rook and a king, 
 
 Note: Archived project, originally built as a final project for Computer Programming in 2019 by Rui-Siang Lin, Hua Fan, and Mu-En Li
 
-## Compile
+## Compile(Windows only)
 ```
 make
 ```
